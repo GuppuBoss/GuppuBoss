@@ -3,6 +3,7 @@
 I'm **Danial Munsif**, Senior Software Engineer, 7+ years of experience working on bleeding edge front/back end technologies.
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guppuboss&label=Profile%20views&color=0e75b6&style=flat" alt="guppuboss" /> </p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danial-munsif-19981598/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danialmunsif)
