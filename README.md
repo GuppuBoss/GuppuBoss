@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 I'm **Danial Munsif**, Senior Software Engineer, 7+ years of experience working on bleeding edge front/back end technologies.
+Hi there 👋
+
+I'm **Danial Munsif**, Lead Software Engineer with 10+ years of experience working on bleeding‑edge front‑end and back‑end technologies. Lately, I've been building cross‑platform apps with React Native & Expo, modern web experiences with React (including Next.js), Python APIs with FastAPI and Django, Node APIs with Next JS and Express, integrating OpenAI for AI‑powered features, and deploying scalable services on MongoDB, PostgreSQL, Supabase, Firebase, and AWS.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guppuboss&label=Profile%20views&color=0e75b6&style=flat" alt="guppuboss" /> </p>
